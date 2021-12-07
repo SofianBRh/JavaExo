@@ -35,7 +35,7 @@ g= g *1.5;}
 var q = 1;
 while( q < 15) {
     console.log("on arrive quand");
-     q++ ;
+    q++ ;
     }
 
 //exo 06 
@@ -44,11 +44,6 @@ while(x>0){
     console.log("c'est presque bon");
     x--;
 }
-
-
-
-
-
 
    //exo7
     var s = 1;
